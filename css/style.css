@@ -1,0 +1,20 @@
+section {
+    background-color: #FFD700;
+}
+.content {
+    height: 100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.content .fa {
+    font-size: 100px;
+    padding: 30px;
+}
+
+.fa-hand-rock-o:hover, .fa-hand-paper-o:hover, .fa-hand-scissors-o:hover {
+    font-size: 120px;
+}
